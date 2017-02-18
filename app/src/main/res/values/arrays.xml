@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="places">
+        <item>Expedition Peru</item>
+        <item>Miwok</item>
+        <item>Sunshine</item>
+        <item>Earthquake</item>
+        <item>Pets</item>
+        <item>Just Java</item>
+        <item>Court Counter</item>
+        <item>Happy Birthday</item>
+        <item>Popular Movies</item>
+        <item>Stock Hawk</item>
+        <item>Capstone</item>
+        <item> Quiz app</item>
+        <item>Musical structure app</item>
+        <item>Report card</item>
+        <item>Tour guide</item>
+        <item> Book listing</item>
+        <item>News app</item>
+        <item>Habit tracker</item>
+        <item>Inventory</item>
+        <item>Build it bigger</item>
+        <item> Make your app material</item>
+        <item> Go ubiquitous</item>
+
+
+        <item> Connect 3</item>
+        <item>Higher or lower</item>
+        <item>Currency converter</item>
+        <item> Number shapes</item>
+        <item> Basic phrases</item>
+        <item> Egg timer</item>
+        <item> Brain trainer</item>
+        <item>Hikers watch</item>
+        <item> Notes</item>
+        <item> Memorable places</item>
+
+
+
+    </string-array>
+    <string-array name="place_desc">
+        <item>From past to present, explorers have embarked on journeys into the Peruvian heartland
+            of intricate architecture, rich culture, and ancient ruins. These archaeologists unearth
+            the mysteries of Peru through their expeditions, each discovery lending a voice to the story
+            of Peru\'s past.
+        </item>
+        <item>The Chavin (900-200 B.C.) culture is named after the archaeological site of
+        Chavin de Huantar, which stood at a strategic location above pathways that connected
+        the Pacific coast to the Amazon Basin. From this early site, the Chavin culture
+        spread via a religious pilgrimage network whose impact was felt from the highlands
+        to the lowlands of ancient Peru</item>
+        <item>The Paracas people (800-100 B.C.)  lived along the south coast of Peru and are
+        known for their elaborate burials, impressive ceremonial mounds and geoglyphs, or lines
+        they created made of rocks, in the overlooking highlands. Some of the lines stretch for more
+        than 1.9 miles (3 kilometers). The Paracas were also amazing weavers and would incorporate
+        their bright textiles into their burials.</item>
+        <item>The Nasca (A.D. 100-600) lived along Peru\'s southern coast. They are known for
+        their artisanal talent for crafting beautiful multi-colored pottery and producing jewelery
+        from gold, silver, and copper. The Nasca extened their art beyond goods by etching geoglyphs, or large
+        geometric designs, on the ground. Despiet decades of archaeological research, we still do not know their purpose. </item>
+        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
+        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+    </string-array>
+    <string-array name="place_details">
+        <item>A little over a hundred years ago, American explorer Hiram Bingham captured the world’s attention when he made the front cover of National Geographic magazine in 1913. Bingham used state-of-the-art photography equipment to record his findings in Peru, and returned with 250 pictures and detailed reports, including his personal account and rediscovery of Machu Picchu. The tradition of explorers using cutting-edge technology in Peru continues today with space archaeologist and National Geographic Fellow Sarah Parcak and National Geographic Explorer Luis Jaime Castillo.
+        </item>
+        <item>Yale University archaeologist Richard Burger was one of the first to study the Chavín culture, having excavated at the site of Chavín de Huántar in the mid-1970s. He demonstrated that the Chavín lived in a stratified society that relied on religious ideology and a wide trade network to spread its influence. According to the work of Burger and others, the Chavín used llama caravans to move goods and people across the Andes.
+One item the llamas likely transported was cinnabar. In a 2009 study, geologist Colin Cooke suggested that demand for vermilion, a bright red pigment made from crushed cinnabar, may have helped the rise of the Chavín civilization. The Chavín, and later the Inca, covered their dead in vermilion for ceremonial purposes in addition to using the pigment to embellish gold objects such as burial masks.
+The high demand for vermilion, a mercury compound, was large enough to support a large-scale mercury mining industry in the Andes as far back as 1400 B.C. Cooke and his team inferred the thriving ancient mercury mining business by identifying increasing levels of mercury pollution in sediments from two nearby lakes in the Peruvian Andes. The mercury mining had started long before the Chavín culture, but having access to goods as exotic as cinnabar and gold would have supported the rise of early Chavín leaders.
+        </item>
+        <item>The Paracas culture is named for a site of the same name that occupies the sandy, windswept Paracas Peninsula on Peru’s south coast. Interactions between the sand and the high ridges of the Andes involving wind, temperature, and ocean currents help create the coastal deserts that extend along much of Peru’s western shorelines.
+        </item>
+        <item>The site of Cahuachi is thought to have been a ceremonial center of the Nasca, where pilgrims would come to visit from the surrounding countryside. It was excavated in the 1950s by Columbia University archaeologist William Duncan Strong. Cahuachi is a 370-acre complex featuring a towering adobe pyramid; several large temples, plazas, and platforms; and an intricate network of connecting staircases and corridors. It was a ceremonial center where people would come with offerings from the mountains and the coast. Among some of the artifacts discovered during the excavation were dozens of severed heads that had been used as trophies. The skulls were typically found with a braided rope strung through a hole drilled in the forehead, perhaps to allow the head to be worn around the waist.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+    </string-array>
+    <string-array name="place_locations">
+        <item>8 Rue Scribe, 75009 Paris, France</item>
+        <item>Piazza del Capitolo - 50122 Florence</item>
+        <item>New York City</item>
+        <item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>
+        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
+        <item>Cape Town, South Africa</item>
+    </string-array>
+    <array name="place_avator">
+        <item>@drawable/peruicon</item>
+        <item>@drawable/miwokicon</item>
+        <item>@drawable/sunshineicon</item>
+        <item>@drawable/quakereporticon</item>
+        <item>@drawable/petsicon</item>
+        <item>@drawable/justjavaicon</item>
+        <item>@drawable/courtcountericon</item>
+        <item>@drawable/birthdayicon</item>
+        <item>@drawable/peru5</item>
+        <item>@drawable/peru5</item>
+        <item>@drawable/peru5</item>
+
+    </array>
+    <array name="places_picture">
+        <item>@drawable/peruicon</item>
+        <item>@drawable/miwokicon</item>
+        <item>@drawable/sunshineicon</item>
+        <item>@drawable/quakereporticon</item>
+        <item>@drawable/petsicon</item>
+        <item>@drawable/justjavaicon</item>
+        <item>@drawable/courtcountericon</item>
+        <item>@drawable/birthdayicon</item>
+        <item>@drawable/peru5</item>
+        <item>@drawable/peru5</item>
+        <item>@drawable/peru5</item>
+
+    </array>
+
+
+</resources>
